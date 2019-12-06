@@ -1,0 +1,9 @@
+C:\Users\Kan\source\repos\YazLab1-2\ServerWatch\ServerWatch\obj\Debug\ServerWatch.csprojAssemblyReference.cache
+C:\Users\Kan\source\repos\YazLab1-2\ServerWatch\ServerWatch\obj\Debug\ServerWatch.Properties.Resources.resources
+C:\Users\Kan\source\repos\YazLab1-2\ServerWatch\ServerWatch\obj\Debug\ServerWatch.ServerWatch.resources
+C:\Users\Kan\source\repos\YazLab1-2\ServerWatch\ServerWatch\obj\Debug\ServerWatch.csproj.GenerateResource.cache
+C:\Users\Kan\source\repos\YazLab1-2\ServerWatch\ServerWatch\bin\Debug\ServerWatch.exe.config
+C:\Users\Kan\source\repos\YazLab1-2\ServerWatch\ServerWatch\bin\Debug\ServerWatch.exe
+C:\Users\Kan\source\repos\YazLab1-2\ServerWatch\ServerWatch\bin\Debug\ServerWatch.pdb
+C:\Users\Kan\source\repos\YazLab1-2\ServerWatch\ServerWatch\obj\Debug\ServerWatch.exe
+C:\Users\Kan\source\repos\YazLab1-2\ServerWatch\ServerWatch\obj\Debug\ServerWatch.pdb
